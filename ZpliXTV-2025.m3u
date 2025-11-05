@@ -83,7 +83,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
 
-#EXTINF:-1 channel-id="0021" tvg-id="0021" tvg-logo="https://i.imgur.com/GEbRABE.png" tvg-chno="0021" group-title="PHILIPPINES", PH| Pokémon
+#EXTINF:-1 channel-id="0021" tvg-id="0021" tvg-logo="https://i.imgur.com/GEbRABE.png" tvg-chno="0021" group-title="PHILIPPINES", PH| PokÃ©mon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 
 
@@ -709,7 +709,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
 
 #EXTINF:-1 channel-id="0003" tvg-id="0003" tvg-logo="https://i.imgur.com/UU2VvGd.png" group-title="CignalPlay",PH | OnePH
-https://github.com/zkloF/Iptv/blob/main/onePH.m3u
+https://github.com/zkloF/Iptv/blob/845f20ea7f534805fd081ca2e9e09a0c6b604bfd/onePH.m3u
 
 
 #EXTINF:-1 channel-id="0003" tvg-id="GMATV.ph" tvg-logo="https://www.kindpng.com/picc/m/700-7001462_gma-network-official-logo-gma-logo-png-transparent.png" group-title="CignalPlay",PH | GMA TV [Not 24/7]
@@ -770,6 +770,7 @@ http://85.237.207.66:51007/4gtv-live080/index.m3u8?proxy=true
 
 #EXTINF:-1 channel-id="0003" tvg-id="0003" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="CignalPlay",PH | Rock Action
 http://85.237.207.66:51007/4gtv-live138/index.m3u8?proxy=true
+
 
 
 
